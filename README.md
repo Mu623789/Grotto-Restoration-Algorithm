@@ -32,5 +32,13 @@ The current implementation includes two SR routes: **VARSR** (VQ-based autoregre
 - Strong baseline for Real-World SR (e.g., BSRGAN-like degradations)
 - Pros: fast inference, easier deployment, mature tile inference
 
+## Environment
 
+Recommended: Linux + NVIDIA CUDA.(GPU memory >= 48GiB
+
+PyTorch  2.8.0
+
+Python  3.12(ubuntu22.04)
+
+CUDA  12.8
 
