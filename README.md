@@ -44,4 +44,5 @@ CUDA  12.8
 
 ### Weights
 Download `VQVAE.pth` from **Releases** and put it under `checkpoints/VQVAE.pth`.
-Download `VQVAE.pth` from **Releases** and put it under `checkpoints/VQVAE.pth`.
+
+Download `VARSR.pth` from **Releases** and put it under `checkpoints/VARSR.pth`.
