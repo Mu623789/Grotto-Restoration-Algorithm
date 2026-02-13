@@ -34,7 +34,7 @@ The current implementation includes two SR routes: **VARSR** (VQ-based autoregre
 
 ## Environment
 
-Recommended: Linux + NVIDIA CUDA.(GPU memory >= 48GiB
+Recommended: Linux + NVIDIA CUDA. (GPU memory >= 48GiB)
 
 PyTorch  2.8.0
 
